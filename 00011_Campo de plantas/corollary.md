@@ -1,0 +1,1 @@
+Como deduziu, aqui também é necessário considerar o **caso borda**, e nesse caso isso significa que **se há uma planta comestível**, **recolha**. Cuidado com este último: tem veces que esse "fazer uma vez mais" implica repetir mais de um comando.

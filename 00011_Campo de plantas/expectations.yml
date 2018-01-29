@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: RecolherPlantasNaFila
+  inspection: UsesWhile
+- binding: RecolherPlantasNaFila
+  inspection: Uses:haPlantaComestivel
+- binding: RecolherPlantasNaFila
+  inspection: Uses:podeMover
+- binding: RecolherPlantasNaFila
+  inspection: Uses:RecolherPlanta

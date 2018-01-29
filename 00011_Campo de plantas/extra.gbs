@@ -1,0 +1,7 @@
+function haPlantaComestivel() {
+  return (haPedras(Verde))
+}
+
+procedure RecolherPlanta() {
+  Retirar(Verde)
+}
