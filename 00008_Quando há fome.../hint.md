@@ -1,0 +1,1 @@
+Nesse caso, o que queremos é repetir enquanto **não** haja uma planta... e para isso provavelmente queira usar o `not`, que já vimos. :sunglasses:

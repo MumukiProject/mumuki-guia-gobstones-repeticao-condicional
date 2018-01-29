@@ -1,0 +1,30 @@
+check_head_position: true
+
+subject: ProcurarComida
+
+examples:
+ - arguments:
+   - Leste
+   initial_board: |
+     GBB/1.0
+     size 4 2
+     cell 2 0 Verde 1
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 4 2
+     cell 2 0 Verde 1
+     head 2 0
+     
+ - arguments:
+   - Norte
+   initial_board: |
+     GBB/1.0
+     size 3 4
+     cell 1 1 Verde 1
+     head 1 0
+   final_board: |
+     GBB/1.0
+     size 3 4
+     cell 1 1 Verde 1
+     head 1 1

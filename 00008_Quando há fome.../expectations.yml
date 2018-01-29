@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:ProcurarComida
+- binding: ProcurarComida
+  inspection: UsesWhile
+- binding: ProcurarComida
+  inspection: Uses:haPlantaComestivel

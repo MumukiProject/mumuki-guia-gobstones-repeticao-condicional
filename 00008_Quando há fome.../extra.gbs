@@ -1,0 +1,3 @@
+function haPlantaComestivel() {
+  return (haPedras(Verde))
+}
