@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: IrAoExtremo
+  inspection: Uses:podeMover
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:IrAoExtremo
+- binding: IrAoExtremo
+  inspection: UsesWhile
