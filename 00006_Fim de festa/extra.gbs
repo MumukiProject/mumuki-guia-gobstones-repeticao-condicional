@@ -1,0 +1,9 @@
+procedure RetirarTodas(cor) {
+  RetirarN(nroPedras(cor), cor)
+}
+
+procedure RetirarN(n, cor) {
+  repeat(n) {
+    Retirar(cor)
+  }
+}

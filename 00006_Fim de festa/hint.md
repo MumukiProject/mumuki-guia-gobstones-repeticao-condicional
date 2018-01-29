@@ -1,0 +1,1 @@
+Para resolver `LimparERetirarTapete()`, você pode usar sem definir o procedimento `RetirarTodas(cor)` que criamos na unidade sobre expressões. Como não sabemos quanto lixo haverá em cada célula, é preciso tirar tudo o que tiver de todas as cores.

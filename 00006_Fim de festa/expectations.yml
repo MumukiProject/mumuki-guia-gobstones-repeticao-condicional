@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresProcedure:LimparERetirarTapete
+- binding: LevantarTapetePara
+  inspection: Uses:LimparERetirarTapete
+- binding: LevantarTapetePara
+  inspection: Uses:podeMover
+- binding: LevantarTapetePara
+  inspection: UsesWhile
