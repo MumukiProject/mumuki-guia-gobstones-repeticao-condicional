@@ -1,0 +1,8 @@
+function haParedeAo(direcao) {
+  Mover(direcao)
+  return (haParede())
+}
+
+function haParede() {
+  return (haPedras(Azul))
+}

@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: EscalarAteDescanso
+  inspection: Uses:haParedeAo
+- binding: EscalarAteDescanso
+  inspection: UsesWhile
