@@ -1,0 +1,19 @@
+subject: haParedeAo
+
+examples:
+ - arguments:
+   - Leste
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 1 0 Azul 1
+     head 0 0
+   return: 'True'
+ 
+ - arguments:
+   - Leste
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   return: 'False'
