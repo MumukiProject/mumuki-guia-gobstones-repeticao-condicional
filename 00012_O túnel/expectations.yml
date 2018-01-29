@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: CavarTunel
+  inspection: UsesWhile
+- binding: CavarTunel
+  inspection: Uses:QuebrarParede
+- binding: CavarTunel
+  inspection: Uses:haParedeAo

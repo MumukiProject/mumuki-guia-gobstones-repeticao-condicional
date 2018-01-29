@@ -1,0 +1,19 @@
+function haParedeAo(direcao) {
+    ret := podeMover(direcao)
+    
+    if (ret) {
+      Mover(direcao)
+    }
+    
+    return (ret && haParede())
+}
+
+function haParede() {
+  return (haPedras(Azul))
+}
+
+procedure QuebrarParede() {
+  Mover(Leste)
+  Retirar(Azul)
+  Mover(Oeste)
+}
