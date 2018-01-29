@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: DesmatarPara
+  inspection: UsesWhile
+- binding: DesmatarPara
+  inspection: Uses:podeMover
+- binding: DesmatarPara
+  inspection: Uses:UsarFoice

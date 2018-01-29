@@ -1,0 +1,3 @@
+procedure UsarFoice() {
+  Retirar(Vermelho)
+}
