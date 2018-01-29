@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DesdobrarTapetePara
+  inspection: UsesWhile
+- binding: DesdobrarTapetePara
+  inspection: Uses:podeMover
